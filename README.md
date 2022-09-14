@@ -1,1 +1,3 @@
-Program ini saya buat untuk menyederhanakan link URL yang panjang.
+<h1>URL SHORTENER</h1>
+
+This program helps you to shorten a long URL.
