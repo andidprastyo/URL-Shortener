@@ -1,0 +1,1 @@
+Program ini saya buat untuk menyederhanakan link URL yang panjang.
